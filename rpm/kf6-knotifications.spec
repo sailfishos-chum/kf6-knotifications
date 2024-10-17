@@ -16,6 +16,7 @@ BuildRequires:  gcc-c++
 BuildRequires:  kf6-rpm-macros
 BuildRequires:  qt6-qtbase-devel
 BuildRequires:  qt6-qtdeclarative-devel
+BuildRequires:  qt6-qttools-devel
 BuildRequires:  libcanberra-devel
 BuildRequires:  kf6-kconfig-devel
 
